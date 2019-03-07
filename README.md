@@ -1,5 +1,6 @@
 # PoC-and-Exp-of-Vulnerabilities
-### 漏洞PoC或Exp的收集
+### 漏洞验证和利用代码收集
+- 免责声明：本项目中的代码为互联网收集或自行编写，请勿用于非法用途，产生的法律责任和本人无关。针对Windows的PoC很多会被杀毒软件拦截，此为正常现象，请自行斟酌是否下载，如果有带有后门的exp，请通过提交issue联系我。
 #### Windows
 - [CVE-2017-0143(MS17-010)](https://github.com/wrlu/PoC-and-Exp-of-Vulnerabilities/tree/master/CVE-2017-0143(MS17-010)) Windows SMB远程代码执行漏洞（永恒之蓝）
 - [CVE-2017-7269](https://github.com/wrlu/PoC-and-Exp-of-Vulnerabilities/tree/master/CVE-2017-7269) Microsoft IIS 6.0 远程代码执行漏洞
